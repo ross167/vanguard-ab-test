@@ -1,6 +1,3 @@
-# Data files
-data/
-git clone https://github.com/ross167/vanguard-ab-test.git && cd vanguard-ab-test && mkdir data notebooks src && cat > .gitignore << 'EOF'
 data/
 .ipynb_checkpoints/
 __pycache__/
